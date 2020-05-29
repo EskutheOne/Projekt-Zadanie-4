@@ -1,0 +1,8 @@
+﻿cl : wiersz polecenia warning D9035: Opcja "Gm" jest przestarzała i będzie usunięta w przyszłych wydaniach
+  main.cpp
+D:\PW\Infa II\Projekt - Zadanie 4\main.cpp(41,24): warning C4244: "argument": konwersja z "double" do "size_t", możliwa utrata danych
+D:\PW\Infa II\Projekt - Zadanie 4\main.cpp(42,25): warning C4244: "argument": konwersja z "double" do "size_t", możliwa utrata danych
+D:\PW\Infa II\Projekt - Zadanie 4\main.cpp(77,14): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+D:\PW\Infa II\Projekt - Zadanie 4\main.cpp(132,17): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+D:\PW\Infa II\Projekt - Zadanie 4\main.cpp(186,14): warning C4244: "=": konwersja z "time_t" do "int", możliwa utrata danych
+  ProjektVisualStudio2008.vcxproj -> D:\PW\Infa II\Projekt - Zadanie 4\Debug\Grafika.exe
